@@ -1,7 +1,3 @@
-Certainly! Here's a more refined and visually appealing README.md for SkillTrack:
-
----
-
 # SkillTrack 🚀
 
 SkillTrack is an open-source web application designed to empower users to assess, track, and enhance their personal and professional skills.
