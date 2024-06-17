@@ -45,5 +45,5 @@ SkillTrack project along with the essential files and code snippets for the back
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/yourusername/SkillTrack.git
+git clone https://github.com/Janadeepa/SkillTrack.git
 cd SkillTrack
